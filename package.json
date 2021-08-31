@@ -1,0 +1,19 @@
+{
+  "name": "@parsepixel/color",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://parsepixel.com/color/",
+  "main": "dist/color.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://parsepixel/color.git"
+  },
+  "author": {
+    "name": "ParsePixel",
+    "url": "https://github.com/parsepixel"
+  },
+  "license": "MIT"
+}
